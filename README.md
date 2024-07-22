@@ -3,6 +3,7 @@
 ## Deployment
 
 *Warning: It does take a few seconds to load the images*
+
 The project is deployed on Vercel. You can view the live site here:
 [Brainwave on Vercel](https://modern-site-brainwave.vercel.app)
 
