@@ -28,9 +28,9 @@ const Benefits = () => {
           {benefits.map((item, index) => (
             <div
               key={item.id}
-              className={`relative block md:max-w-[24rem] p-0.5 bg-gradient-to-b ${cardColors[index].start} ${cardColors[index].end} rounded-xl`}
+              className={`relative block md:max-w-[24rem] p-0.5 bg-gradient-to-b ${cardColors[index].start} ${cardColors[index].end} rounded-xl transition-transform transform hover:scale-105 hover:z-10`}
             >
-              <div className="relative bg-n-8 rounded-xl overflow-hidden p-0.5 clip-top-right">
+              <div className="relative bg-n-8 rounded-xl overflow-hidden p-0.5 transition-transform transform group-hover:scale-95">
                 <div className="relative z-2 flex flex-col p-[2.4rem] min-h-[22rem] pointer-events-none">
                   <h5 className="mb-5 h5">{item.title}</h5>
                   <p className="mb-6 body-2 text-n-3">{item.text}</p>
