@@ -1,15 +1,25 @@
-# Brainwave - Modern Website
+<div align="center">
+
+  <h1 align="center">Brainwave - Modern Website</h1>
+
+  <br />
+  <div class="image-placeholder">
+    <img src="src/assets/site.png"> </img>
+  </div>
+  <br />
+</div>
+
+## Introduction
+
+Welcome to "Brainwave," a modern home-page designed with the latest UI trends and technologies. 
+
+This project demonstrates my front-end development skills and my ability to create engaging user experiences.
 
 ## Deployment
 
-*Warning: It does take a few seconds to load the images*
+**Warning:** It does take a few seconds to load the images.
 
-The project is deployed on Vercel. You can view the live site here:
-[Brainwave on Vercel](https://modern-site-brainwave.vercel.app)
-
-## Overview
-
-Welcome to "Brainwave," a modern and interactive website designed with the latest UI trends and technologies. This project demonstrates my front-end development skills and my ability to create engaging user experiences.
+The project is deployed on Vercel. You can view the live site here: [Brainwave on Vercel](https://modern-site-brainwave.vercel.app)
 
 ## Features
 
@@ -33,12 +43,10 @@ I aimed to go beyond the basics by incorporating unique animations and interacti
 
 ## Conclusion
 
-I hope "Brainwave" showcases my ability to build modern, responsive, and visually appealing websites. Thank you for taking the time to explore my work.
+I hope "Brainwave" showcases my ability to build modern, responsive, and visually appealing websites. Feel free to explore the project and reach out if you have any questions or feedback.
 
----
+Thank you for taking the time to explore my work.
 
-**Kaustubh Siriki**
-
----
-
-Feel free to explore the project and reach out if you have any questions or feedback. I'm excited about the possibility of bringing my skills to your team and contributing to your projects.
+<div align="left">
+  <strong>- Kaustubh Siriki</strong>
+</div>
