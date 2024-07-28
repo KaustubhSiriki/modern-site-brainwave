@@ -17,18 +17,18 @@ const cardColors = [
 
 const Benefits = () => {
   return (
-    <Section id="features" className="justify-in-between items-center">
+    <Section id="features" className="justify-center items-center">
       <div className="relative container z-2">
         <Heading 
           className="lg:max-w-2xl md:max-w-md" 
           title="Chat Smarter, Not Harder with Brainwave" 
         />
         
-        <div className="flex flex-wrap gap-10 mb-10 justify-in-between items-center">
+        <div className="flex flex-wrap gap-10 mb-10 justify-center items-center">
           {benefits.map((item, index) => (
             <div
               key={item.id}
-              className={`justify-in-between items-center relative block md:max-w-[22rem] p-0.5 bg-gradient-to-b ${cardColors[index].start} ${cardColors[index].end} rounded-xl transition-transform transform hover:scale-105 hover:z-10`}
+              className={`justify-center items-center relative block md:max-w-[22rem] p-0.5 bg-gradient-to-b ${cardColors[index].start} ${cardColors[index].end} rounded-xl transition-transform transform hover:scale-105 hover:z-10`}
             >
               <div className="relative bg-n-8 rounded-xl overflow-hidden p-0.5 transition-transform transform group-hover:scale-95">
                 <div className="relative z-2 flex flex-col p-[2.4rem] min-h-[22rem] pointer-events-none">
