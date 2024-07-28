@@ -3,7 +3,6 @@ import React, { Suspense, lazy } from 'react';
 // Lazy load components
 const ButtonGradient = lazy(() => import("./assets/svg/ButtonGradient"));
 const Benefits = lazy(() => import("./components/Benefits"));
-const Button = lazy(() => import("./components/Button"));
 const Header = lazy(() => import("./components/Header"));
 const Hero = lazy(() => import("./components/Hero"));
 const Collaboration = lazy(() => import("./components/Collaboration"));
