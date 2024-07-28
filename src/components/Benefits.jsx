@@ -24,7 +24,7 @@ const Benefits = () => {
           title="Chat Smarter, Not Harder with Brainwave" 
         />
         
-        <div className="flex flex-wrap gap-10 mb-10">
+        <div className="flex flex-wrap gap-10 mb-10 justify-in-between items-center">
           {benefits.map((item, index) => (
             <div
               key={item.id}
