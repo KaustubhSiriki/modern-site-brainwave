@@ -17,7 +17,7 @@ const cardColors = [
 
 const Benefits = () => {
   return (
-    <Section id="features">
+    <Section id="features" className="justify-in-between items-center">
       <div className="relative container z-2">
         <Heading 
           className="lg:max-w-2xl md:max-w-md" 
